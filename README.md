@@ -1,4 +1,12 @@
-# fireblogs
+# Justblogs
+
+To View: https://justblogsyt.web.app/ 
+
+## ** What is JustBlog? **
+JustBlog Vue is a blog application made using Vuex, Firebase. You can create, delete, update blogs with user login. 
+If you are not registered, your possibilities are limited. You can only see.
+You can follow the entered blogs or register and create a blog yourself.
+Current versions will come as v2, v3 in the future.
 
 ## Project setup
 ```
